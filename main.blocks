@@ -1,0 +1,4 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="8G/=wso8/TY;/98HwQJ4">current_temperature</variable></variables><block type="pxt-on-start" id="iEU=s[fwmDW7roSbkQqy" x="0" y="0"><comment pinned="true" h="183" w="388">Create by: Mr.Coxall
+Created on: Sept 2020
+
+This program says, "Hello, World!"</comment><statement name="HANDLER"><block type="device_print_message" id="Kz+tsU|/*#pE-E5gp?Mz"><value name="text"><shadow type="text" id="ax4h5+mX3P3Xd{XXQA=K"><field name="TEXT">'Hello, World!'</field></shadow></value></block></statement></block></xml>
